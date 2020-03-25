@@ -1,0 +1,11 @@
+c:\users\mrt_b\source\repos\ProgressBar Kullanımı\ProgressBar Kullanımı\bin\Debug\ProgressBar Kullanımı.exe.config
+c:\users\mrt_b\source\repos\ProgressBar Kullanımı\ProgressBar Kullanımı\bin\Debug\ProgressBar Kullanımı.exe
+c:\users\mrt_b\source\repos\ProgressBar Kullanımı\ProgressBar Kullanımı\bin\Debug\ProgressBar Kullanımı.pdb
+c:\users\mrt_b\source\repos\ProgressBar Kullanımı\ProgressBar Kullanımı\obj\Debug\ProgressBar Kullanımı.csprojAssemblyReference.cache
+c:\users\mrt_b\source\repos\ProgressBar Kullanımı\ProgressBar Kullanımı\obj\Debug\ProgressBar_Kullanımı.Form1.resources
+c:\users\mrt_b\source\repos\ProgressBar Kullanımı\ProgressBar Kullanımı\obj\Debug\ProgressBar_Kullanımı.Install.resources
+c:\users\mrt_b\source\repos\ProgressBar Kullanımı\ProgressBar Kullanımı\obj\Debug\ProgressBar_Kullanımı.Properties.Resources.resources
+c:\users\mrt_b\source\repos\ProgressBar Kullanımı\ProgressBar Kullanımı\obj\Debug\ProgressBar Kullanımı.csproj.GenerateResource.cache
+c:\users\mrt_b\source\repos\ProgressBar Kullanımı\ProgressBar Kullanımı\obj\Debug\ProgressBar Kullanımı.csproj.CoreCompileInputs.cache
+c:\users\mrt_b\source\repos\ProgressBar Kullanımı\ProgressBar Kullanımı\obj\Debug\ProgressBar Kullanımı.exe
+c:\users\mrt_b\source\repos\ProgressBar Kullanımı\ProgressBar Kullanımı\obj\Debug\ProgressBar Kullanımı.pdb
